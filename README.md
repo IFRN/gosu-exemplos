@@ -11,3 +11,5 @@ Exemplos de jogos desenvolvidos no IFRN usando a biblioteca Gosulib
 2012.1
 ------
   - [Mad Birds](https://github.com/jamillosantos/tfprog2012.1) ![Stars](https://img.shields.io/github/stars/jamillosantos/tfprog2012.1?style=social&label=★ "Mad Birds") ![Jamillo](https://avatars1.githubusercontent.com/u/142870?v=3&s=30)
+  - [The Horder](https://github.com/JoabMendes/theHorder)
+  ![Joab Mendes](https://avatars2.githubusercontent.com/u/829669?v=3&s=30)
